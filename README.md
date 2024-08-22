@@ -5,6 +5,11 @@ Esta herramienta permite la visualización de datos de viento utilizando archivo
 Su desarrollo se realizó en el entorno de Google Colab con lenguaje Python junto con la función **add_velocity()** para lograr la representación de las direcciones y magnitudes del viento
 
 
+                                           --- VISTA PREVIA ---
+                                          
+<p align="center">
+  <img src="mapaVientos.gif" alt="Gif" width="600" height="400">
+</p>
 
                                            --- INSTRUCCIONES --- 
 El cuaderno a Colab se encuentra en el siguiente enlace:   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1462-vdp6vLfGCKYWRKQBipQ701CkS5AW?usp=sharing)
@@ -72,9 +77,5 @@ Al ejecutar esta celda se podrá visualizar el mapa de vientos con sus direccion
 
 &nbsp;
 
-                                           --- VISTA PREVIA ---
-                                          
-<p align="center">
-  <img src="mapaVientos.gif" alt="Gif" width="600" height="400">
-</p>
+
 
