@@ -21,7 +21,11 @@ El primer paso es obtener el archivo .nc del SMN el cual puede obtener por dos v
 * Descargando el archivo de ejemplo:
   
   > [**Enlace al archivo de ejemplo**](https://github.com/etengler/MapaVientos/tree/c96c82e8ef1f511c082e9008502a0bc08f9f0187/Archivos)
-  
+
+A continuación, debe agregar el archivo .nc al entorno y modificar la siguiente línea con el nombre del archivo si descarga uno diferentre al del ejemplo. 
+
+![image](https://github.com/user-attachments/assets/841c3288-d8c3-4f77-aee0-476c8188c113)
+
 **2. Interpolación a retícula regular**
 Conversión de Dirección y Magnitud a Componentes Zonales y Meridionales
 Ajuste de Dimensiones para la Visualización
