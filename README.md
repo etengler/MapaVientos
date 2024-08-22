@@ -61,13 +61,19 @@ Lo importante es el nombre del proyecto personal de GEE, que se encuentra en el 
 
 ![image](https://github.com/user-attachments/assets/bf8e9322-af6e-4c8f-948f-38db7e6672f6)
 
+Copiar este nombre y **reemplazarlo** en la línea **ee.Initialize(project='nombre_del_proyecto')**. Luego podrá ejecutar la solapa. Tener en cuenta, que además deberá aceptar permisos. 
+
+![image](https://github.com/user-attachments/assets/7a99e4e1-8f2a-4b2a-ab52-d02aac746840)
+
 &nbsp;
 
 **6. Visualización del Viento en un Mapa Interactivo:**
 Al ejecutar esta celda se podrá visualizar el mapa de vientos con sus direcciones y magnitudes gracias a la función add_velocity() de geemap. 
 
- 
-                                           --- VISTA PREVIA ---                                                                                     
+&nbsp;
+
+                                           --- VISTA PREVIA ---
+                                          
 <p align="center">
   <img src="mapaVientos.gif" alt="Gif" width="600" height="400">
 </p>
